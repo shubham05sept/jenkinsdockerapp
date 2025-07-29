@@ -9,6 +9,6 @@ spec:
     app: mayank
   type: NodePort
   ports:
-    - nodePort: 30005
+    - nodePort: 30006
       port: 8080
       targetPort: 8080
