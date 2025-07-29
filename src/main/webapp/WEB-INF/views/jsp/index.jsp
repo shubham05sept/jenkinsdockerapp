@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy;  sachin Sehwag </p>
+		<p>&copy;  Sehwag </p>
 	</footer>
 </div>
 
