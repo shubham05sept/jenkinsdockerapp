@@ -3,12 +3,12 @@ kind: Service
 metadata:
   name: my-services
   labels:
-    app:  myapp-services
+    app:  myapp-service
 spec:
   selector:
     app: mayank
   type: NodePort
   ports:
-    - nodePort: 30006
+    - nodePort: 30005
       port: 8080
       targetPort: 8080
