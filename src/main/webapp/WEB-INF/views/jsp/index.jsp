@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Virendra Sehwag </p>
+		<p>&copy;  Sehwag </p>
 	</footer>
 </div>
 
