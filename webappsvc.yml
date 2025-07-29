@@ -3,7 +3,7 @@ kind: Service
 metadata:
   name: my-services
   labels:
-    app:  myapp-service
+    app:  myapp-services
 spec:
   selector:
     app: mayank
